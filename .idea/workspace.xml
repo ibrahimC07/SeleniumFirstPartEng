@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f77903-949c-48de-99cb-71e73953a63e" name="Default Changelist" comment="" />
+    <list default="true" id="42f77903-949c-48de-99cb-71e73953a63e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,31 +42,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DLyxx0YSc97KtnHg9lkZ3ja5Ij" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AhmetBayramseleniumIlkKisim&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day03_Checkbox.checkboxTest">
+  <component name="RunManager" selected="JUnit.Day03_Checkbox.checkboxTest (1)">
     <configuration name="Day02_Assertions.assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
@@ -79,21 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day02_JUnitAnnotations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myfirstproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day02_JUnitAnnotations" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day02_LocatorsIntro.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
@@ -105,6 +91,22 @@
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
       <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day02_LocatorsIntro" />
       <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03_Checkbox.checkboxTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AhmetBayramseleniumIlkKisim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day03_Checkbox" />
+      <option name="METHOD_NAME" value="checkboxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -144,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day03_Checkbox.checkboxTest (1)" />
         <item itemvalue="JUnit.Day03_Checkbox.checkboxTest" />
         <item itemvalue="JUnit.Day02_LocatorsIntro.login" />
         <item itemvalue="JUnit.testw.test" />
         <item itemvalue="JUnit.Day02_Assertions.assertions" />
-        <item itemvalue="JUnit.Day02_JUnitAnnotations" />
       </list>
     </recent_temporary>
   </component>
@@ -173,49 +175,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="942" y="507" key="#Notifications" timestamp="1660506976871">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="942" y="507" key="#Notifications/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660506976871" />
-    <state x="100" y="100" width="2360" height="1240" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1660611526853">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="100" y="100" width="2360" height="1240" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660611526853" />
-    <state width="2508" height="71" key="GridCell.Tab.0.bottom" timestamp="1660700607050">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2508" height="71" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660700607050" />
-    <state width="2279" height="288" key="GridCell.Tab.0.bottom/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660695333722" />
-    <state width="2508" height="71" key="GridCell.Tab.0.center" timestamp="1660700607049">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2508" height="71" key="GridCell.Tab.0.center/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660700607049" />
-    <state width="2279" height="288" key="GridCell.Tab.0.center/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660695333721" />
-    <state width="2508" height="71" key="GridCell.Tab.0.left" timestamp="1660700607048">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2508" height="71" key="GridCell.Tab.0.left/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660700607048" />
-    <state width="2279" height="288" key="GridCell.Tab.0.left/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660695333720" />
-    <state width="2508" height="71" key="GridCell.Tab.0.right" timestamp="1660700607049">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state width="2508" height="71" key="GridCell.Tab.0.right/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660700607049" />
-    <state width="2279" height="288" key="GridCell.Tab.0.right/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660695333721" />
-    <state x="715" y="288" width="1537" height="903" key="SettingsEditor" timestamp="1660606933292">
-      <screen x="69" y="25" width="2491" height="1415" />
-    </state>
-    <state x="664" y="268" width="1537" height="903" key="SettingsEditor/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660506690152" />
-    <state x="715" y="288" key="SettingsEditor/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660606933292" />
-    <state x="486" y="310" key="new project wizard" timestamp="1660605037696">
-      <screen x="69" y="25" width="2491" height="1415" />
-    </state>
-    <state x="486" y="310" key="new project wizard/69.25.2491.1415/2560.25.1920.1055@69.25.2491.1415" timestamp="1660605037696" />
-    <state x="861" y="324" width="838" height="1032" key="search.everywhere.popup" timestamp="1660506663904">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="861" y="324" width="838" height="1032" key="search.everywhere.popup/0.0.2560.1440/2560.25.1920.1055@0.0.2560.1440" timestamp="1660506663904" />
   </component>
 </project>
